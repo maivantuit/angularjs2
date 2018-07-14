@@ -1,0 +1,17 @@
+// SETUP ENVIENVIRONTMENT:
+// Các phiên bản trước thì chúng ta setup bằng tay, nay chúng ta setup quickstart hổ trợ bởi các tool: Angular CLI(command line interface).
+
+// STEP 1: Setup:
+// Trước khi setup thì cần có: Node -v, npm -v.
+// cmd: npm install -g @angular/cli
+
+// STEP 2: Create a new project:
+// cmd: ng new my-app
+
+// SETUP 3: Serve the application
+// cmd: cd my-app 
+// cmd: ng serve --open
+
+// SETUP 4: Edit component your app.
+// in ./src/app/app.component.ts
+// in ./src/app/app.component.css 
